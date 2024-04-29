@@ -1,0 +1,10 @@
+{
+    "mode": "release",
+    "log": {
+        "level": "info",
+        "filename": "prod.log",
+        "maxsize": 1048576,
+        "maxage": 7,
+        "maxbackups": 10
+    }
+}

@@ -1,0 +1,4 @@
+.vscode
+.env
+global-backend
+*.log
